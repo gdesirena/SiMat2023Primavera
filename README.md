@@ -1,4 +1,4 @@
-# Simulación Matemática - Otoño 2022
+# Simulación Matemática - Primavera 2023
 En este repositorio se encuentran las notas para el curso de simulación matemática en el periodo de otoño del 2021.
 
 Este curso consiste de tres módulos. 
@@ -28,6 +28,5 @@ Este curso consiste de tres módulos.
 
    1. Introducción a ecuaciones diferenciales
    2. ¿Cómo se muve un péndulo? 
-   3. ¿Cómo funciona la suspensión de un auto? 
-   4. ¿Cómo crece una población?
-   5. Modelo del rendimiento de una cuenta de ahorro
+   3. ¿Cómo crece una población?
+   4. Modelo del rendimiento de una cuenta de ahorro
