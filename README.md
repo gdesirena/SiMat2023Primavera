@@ -1,5 +1,5 @@
 # Simulación Matemática - Primavera 2023
-En este repositorio se encuentran las notas para el curso de simulación matemática en el periodo de otoño del 2021.
+En este repositorio se encuentran las notas para el curso de simulación matemática en el periodo de Primavera del 2023.
 
 Este curso consiste de tres módulos. 
 
